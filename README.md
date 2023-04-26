@@ -1,5 +1,7 @@
 # Installation
 
+dotnet tool install -g neo.compiler.csharp
+
 ## CLI if needed
 https://docs.neo.org/docs/en-us/node/cli/setup.html
 
