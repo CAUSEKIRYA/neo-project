@@ -29,3 +29,8 @@ Private chain nodes.
 ```
 neo> start Consensus
 ```
+
+# Private chain
+
+https://docs.neo.org/docs/en-us/develop/network/private-chain/solo.html
+
