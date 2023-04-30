@@ -26,6 +26,7 @@ Node for transactions.
 
 Private chain nodes.
 
+Command for start:
 ```
 neo> start Consensus
 ```
