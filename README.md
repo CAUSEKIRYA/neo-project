@@ -13,3 +13,17 @@ dotnet new -i Neo3.SmartContract.Templates
 # Visual Studio Code
 
 https://marketplace.visualstudio.com/items?itemName=ngd-seattle.neo-blockchain-toolkit
+
+# Nodes
+
+## ./neo-cli
+
+Node for transactions.
+
+## ./nodes/*
+
+Private chain nodes.
+
+```
+neo> start Consensus
+```
