@@ -1,3 +1,5 @@
+# Basic commands
+
 ```
 neo> create wallet "key"
 
