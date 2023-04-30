@@ -1,0 +1,35 @@
+{ 
+ "ApplicationConfiguration": { 
+   "Logger": { 
+     "Path": "Logs", 
+     "ConsoleOutput": false, 
+     "Active": false 
+   }, 
+   "Storage": { 
+     "Engine": "LevelDBStore", 
+     "Path": "Data_LevelDB_{0}" 
+   }, 
+   "P2P": { 
+     "Port": 23333, 
+     "WsPort": 23334 
+   }, 
+   "UnlockWallet": { 
+     "Path": "", 
+     "Password": "", 
+     "IsActive": false 
+   }, 
+   "PluginURL": "https://github.com/neo-project/neo-modules/releases/download/v{1}/{0}.zip" 
+ }, 
+ "ProtocolConfiguration": { 
+   "Network": 5309138, 
+   "MillisecondsPerBlock": 15000, 
+   "MaxTraceableBlocks": 2102400, 
+   "ValidatorsCount": 1, 
+   "StandbyCommittee": [ 
+     "03b5892622c5a8d2c132c0119663295124e6799eb8607de7894f602f88844bfbdf" 
+   ], 
+   "SeedList": [ 
+   "localhost:21333" 
+   ] 
+ } 
+} 

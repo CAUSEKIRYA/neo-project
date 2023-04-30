@@ -1,0 +1,14 @@
+[Fatal][01:30:31.276] Neo.IO.Data.LevelDB.LevelDBException
+IO error: C:\Users\zip\Desktop\server\neo-project\nodes\solo\Data_LevelDB_005102D2/LOCK: Процесс не может получить доступ к файлу, так как этот файл занят другим процессом.
+
+   at Neo.IO.Data.LevelDB.DB.Open(String name, Options options)
+   at Neo.Plugins.Storage.Store..ctor(String path)
+   at Neo.Plugins.Storage.LevelDBStore.GetStore(String path)
+   at Neo.NeoSystem..ctor(ProtocolSettings settings, String storageEngine, String storagePath)
+   at Neo.CLI.MainService.Start(String[] args) in E:\Release\3.5.0\neo-node\neo-cli\CLI\MainService.cs:line 375
+   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_1(Object state)
+   at System.Threading.QueueUserWorkItemCallbackDefaultContext.Execute()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+   at System.Threading.Thread.StartCallback()
+

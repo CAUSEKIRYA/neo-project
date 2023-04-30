@@ -1,0 +1,282 @@
+[Info][01:08:05.633] OnStart
+[Info][01:08:05.650] Initialize: height=1 view=0 index=0 role=Primary
+[Info][01:08:05.653] Sending RecoveryRequest: height=1 view=0 nc=0 nf=0
+[Info][01:08:05.672] Sending PrepareRequest: height=1 view=0
+[Info][01:08:05.681] Sending Commit
+[Info][01:08:05.694] Sending Block: height=1 hash=0x325f256bed7aec6ffaf046873aa71a2d03e9dc182f96221fc108434d02bc591a tx=0
+[Info][01:08:05.708] Persisted Block: height=1 hash=0x325f256bed7aec6ffaf046873aa71a2d03e9dc182f96221fc108434d02bc591a tx=0 nonce=9582160997555862688
+[Info][01:08:05.709] Initialize: height=2 view=0 index=0 role=Primary
+[Info][01:08:20.697] Sending PrepareRequest: height=2 view=0
+[Info][01:08:20.699] Sending Commit
+[Info][01:08:20.702] Sending Block: height=2 hash=0xefd3ec293c74706da84bd75d2337fee3ed755cbe0ed64f26c6510c7653fc04cc tx=0
+[Info][01:08:20.704] Persisted Block: height=2 hash=0xefd3ec293c74706da84bd75d2337fee3ed755cbe0ed64f26c6510c7653fc04cc tx=0 nonce=2134986336202217673
+[Info][01:08:20.705] Initialize: height=3 view=0 index=0 role=Primary
+[Info][01:08:35.714] Sending PrepareRequest: height=3 view=0
+[Info][01:08:35.718] Sending Commit
+[Info][01:08:35.721] Sending Block: height=3 hash=0x568e62dda9d8e4698fab31c1422cac77895821a526f25ddb079d5f414c6ce1e8 tx=0
+[Info][01:08:35.723] Persisted Block: height=3 hash=0x568e62dda9d8e4698fab31c1422cac77895821a526f25ddb079d5f414c6ce1e8 tx=0 nonce=4748837246362454258
+[Info][01:08:35.725] Initialize: height=4 view=0 index=0 role=Primary
+[Info][01:08:50.732] Sending PrepareRequest: height=4 view=0
+[Info][01:08:50.736] Sending Commit
+[Info][01:08:50.739] Sending Block: height=4 hash=0xbb4ca2cf59b516ce9c884bf6177d9913820a6060d93b71592d46453798e9ece4 tx=0
+[Info][01:08:50.741] Persisted Block: height=4 hash=0xbb4ca2cf59b516ce9c884bf6177d9913820a6060d93b71592d46453798e9ece4 tx=0 nonce=12893909663720318257
+[Info][01:08:50.742] Initialize: height=5 view=0 index=0 role=Primary
+[Info][01:09:05.753] Sending PrepareRequest: height=5 view=0
+[Info][01:09:05.757] Sending Commit
+[Info][01:09:05.764] Sending Block: height=5 hash=0xe833548845a49dea46fcc6c53371c7a024694cb32030d48bbd94350574b06d88 tx=0
+[Info][01:09:05.766] Persisted Block: height=5 hash=0xe833548845a49dea46fcc6c53371c7a024694cb32030d48bbd94350574b06d88 tx=0 nonce=9821803185807026284
+[Info][01:09:05.766] Initialize: height=6 view=0 index=0 role=Primary
+[Info][01:09:20.781] Sending PrepareRequest: height=6 view=0
+[Info][01:09:20.784] Sending Commit
+[Info][01:09:20.787] Sending Block: height=6 hash=0xe251a238516419a1872c6f0d287c818a68ff471fe1773ef5be885148602494de tx=0
+[Info][01:09:20.790] Persisted Block: height=6 hash=0xe251a238516419a1872c6f0d287c818a68ff471fe1773ef5be885148602494de tx=0 nonce=11046037139600774818
+[Info][01:09:20.791] Initialize: height=7 view=0 index=0 role=Primary
+[Info][01:09:35.801] Sending PrepareRequest: height=7 view=0
+[Info][01:09:35.804] Sending Commit
+[Info][01:09:35.807] Sending Block: height=7 hash=0x424e3e7585bf8736f69adb1fa79d6ab1c29142d67f356db1ef166230f2813b6c tx=0
+[Info][01:09:35.809] Persisted Block: height=7 hash=0x424e3e7585bf8736f69adb1fa79d6ab1c29142d67f356db1ef166230f2813b6c tx=0 nonce=16085791157098193172
+[Info][01:09:35.811] Initialize: height=8 view=0 index=0 role=Primary
+[Info][01:09:50.815] Sending PrepareRequest: height=8 view=0
+[Info][01:09:50.818] Sending Commit
+[Info][01:09:50.833] Sending Block: height=8 hash=0x922b41f58550da54355c13adb2a008ce19484e43aa51705580d6ae935da99134 tx=0
+[Info][01:09:50.835] Persisted Block: height=8 hash=0x922b41f58550da54355c13adb2a008ce19484e43aa51705580d6ae935da99134 tx=0 nonce=17437465141772121783
+[Info][01:09:50.835] Initialize: height=9 view=0 index=0 role=Primary
+[Info][01:10:05.839] Sending PrepareRequest: height=9 view=0
+[Info][01:10:05.842] Sending Commit
+[Info][01:10:05.849] Sending Block: height=9 hash=0x0de949af5c36e9d5377f16e55a85253c43fc50936de47f2f3e9f81d9e0934344 tx=0
+[Info][01:10:05.852] Persisted Block: height=9 hash=0x0de949af5c36e9d5377f16e55a85253c43fc50936de47f2f3e9f81d9e0934344 tx=0 nonce=2091314843718227106
+[Info][01:10:05.853] Initialize: height=10 view=0 index=0 role=Primary
+[Info][01:10:20.857] Sending PrepareRequest: height=10 view=0
+[Info][01:10:20.860] Sending Commit
+[Info][01:10:20.863] Sending Block: height=10 hash=0xa89faaf0579ea851645c0bc7914dc56bdeb0bcc5604cfc2c85e14fea03596997 tx=0
+[Info][01:10:20.865] Persisted Block: height=10 hash=0xa89faaf0579ea851645c0bc7914dc56bdeb0bcc5604cfc2c85e14fea03596997 tx=0 nonce=483725184189103552
+[Info][01:10:20.866] Initialize: height=11 view=0 index=0 role=Primary
+[Info][01:10:35.865] Sending PrepareRequest: height=11 view=0
+[Info][01:10:35.869] Sending Commit
+[Info][01:10:35.871] Sending Block: height=11 hash=0x6044d7a3affe98c209fb382b9af3ab3abf9bc7b6d60ff03df1884b48b60700b0 tx=0
+[Info][01:10:35.873] Persisted Block: height=11 hash=0x6044d7a3affe98c209fb382b9af3ab3abf9bc7b6d60ff03df1884b48b60700b0 tx=0 nonce=5092454301900208539
+[Info][01:10:35.874] Initialize: height=12 view=0 index=0 role=Primary
+[Info][01:10:50.875] Sending PrepareRequest: height=12 view=0
+[Info][01:10:50.878] Sending Commit
+[Info][01:10:50.927] Sending Block: height=12 hash=0x8b2da5776db226a377332a3016beececcf90cb4ef1a941f78774c98802ae97b3 tx=0
+[Info][01:10:50.929] Persisted Block: height=12 hash=0x8b2da5776db226a377332a3016beececcf90cb4ef1a941f78774c98802ae97b3 tx=0 nonce=4534956626302459569
+[Info][01:10:50.931] Initialize: height=13 view=0 index=0 role=Primary
+[Info][01:11:05.947] Sending PrepareRequest: height=13 view=0
+[Info][01:11:05.950] Sending Commit
+[Info][01:11:05.953] Sending Block: height=13 hash=0xf9b848ce56f32841896a9a6e71a2a41f11155023595c066156360de3f0df018b tx=0
+[Info][01:11:05.954] Persisted Block: height=13 hash=0xf9b848ce56f32841896a9a6e71a2a41f11155023595c066156360de3f0df018b tx=0 nonce=13141692767040357249
+[Info][01:11:05.955] Initialize: height=14 view=0 index=0 role=Primary
+[Info][01:11:20.963] Sending PrepareRequest: height=14 view=0
+[Info][01:11:20.966] Sending Commit
+[Info][01:11:20.968] Sending Block: height=14 hash=0x35c2a054a95341d499e32dc12a141a509c78912883b178d8f122a9ea0cddec3b tx=0
+[Info][01:11:20.970] Persisted Block: height=14 hash=0x35c2a054a95341d499e32dc12a141a509c78912883b178d8f122a9ea0cddec3b tx=0 nonce=10889898165421125293
+[Info][01:11:20.971] Initialize: height=15 view=0 index=0 role=Primary
+[Info][01:11:35.981] Sending PrepareRequest: height=15 view=0
+[Info][01:11:35.984] Sending Commit
+[Info][01:11:35.987] Sending Block: height=15 hash=0x8a546488c324e47673327d9dd0d1fb0de9f145f4df15e16dac67cae4ed7f4ea4 tx=0
+[Info][01:11:35.989] Persisted Block: height=15 hash=0x8a546488c324e47673327d9dd0d1fb0de9f145f4df15e16dac67cae4ed7f4ea4 tx=0 nonce=238079562036373394
+[Info][01:11:35.990] Initialize: height=16 view=0 index=0 role=Primary
+[Info][01:11:51.001] Sending PrepareRequest: height=16 view=0
+[Info][01:11:51.005] Sending Commit
+[Info][01:11:51.008] Sending Block: height=16 hash=0x4282e15dfe76f2529ed986f2523ae26d764f09f30f931fa6541734604df1f1cc tx=0
+[Info][01:11:51.010] Persisted Block: height=16 hash=0x4282e15dfe76f2529ed986f2523ae26d764f09f30f931fa6541734604df1f1cc tx=0 nonce=11048476579232516728
+[Info][01:11:51.011] Initialize: height=17 view=0 index=0 role=Primary
+[Info][01:12:06.022] Sending PrepareRequest: height=17 view=0
+[Info][01:12:06.025] Sending Commit
+[Info][01:12:06.039] Sending Block: height=17 hash=0x6b2bf49c1a7ac96b2f2078593d685189bc6507c832a40a91073969d2ca75440b tx=0
+[Info][01:12:06.041] Persisted Block: height=17 hash=0x6b2bf49c1a7ac96b2f2078593d685189bc6507c832a40a91073969d2ca75440b tx=0 nonce=16706732767327754000
+[Info][01:12:06.042] Initialize: height=18 view=0 index=0 role=Primary
+[Info][01:12:21.058] Sending PrepareRequest: height=18 view=0
+[Info][01:12:21.061] Sending Commit
+[Info][01:12:21.064] Sending Block: height=18 hash=0x49616889a87d03fb2f4154c812f8f3d1d8a3f6753b440e5d35d60da31cba7596 tx=0
+[Info][01:12:21.066] Persisted Block: height=18 hash=0x49616889a87d03fb2f4154c812f8f3d1d8a3f6753b440e5d35d60da31cba7596 tx=0 nonce=12468848050550983735
+[Info][01:12:21.067] Initialize: height=19 view=0 index=0 role=Primary
+[Info][01:12:36.078] Sending PrepareRequest: height=19 view=0
+[Info][01:12:36.081] Sending Commit
+[Info][01:12:36.084] Sending Block: height=19 hash=0xbba32bd32ab5fc7c6f3d6182ffec2e9dc7e088aca3c68d1e4fe59c03ddc7bd1b tx=0
+[Info][01:12:36.086] Persisted Block: height=19 hash=0xbba32bd32ab5fc7c6f3d6182ffec2e9dc7e088aca3c68d1e4fe59c03ddc7bd1b tx=0 nonce=14970891326918652453
+[Info][01:12:36.088] Initialize: height=20 view=0 index=0 role=Primary
+[Info][01:24:13.984] OnStart
+[Info][01:24:14.016] Initialize: height=20 view=0 index=0 role=Primary
+[Info][01:24:14.019] Sending RecoveryRequest: height=20 view=0 nc=0 nf=0
+[Info][01:24:29.033] Sending PrepareRequest: height=20 view=0
+[Info][01:24:29.040] Sending Commit
+[Info][01:24:29.052] Sending Block: height=20 hash=0x020ef65902a7f975c8a758542605ab8a7150dc90aae7fadd4493898844eed413 tx=0
+[Info][01:24:29.129] Persisted Block: height=20 hash=0x020ef65902a7f975c8a758542605ab8a7150dc90aae7fadd4493898844eed413 tx=0 nonce=1052635453539858325
+[Info][01:24:29.131] Initialize: height=21 view=0 index=0 role=Primary
+[Info][01:30:49.798] OnStart
+[Info][01:30:49.828] Initialize: height=21 view=0 index=0 role=Primary
+[Info][01:30:49.831] Sending RecoveryRequest: height=21 view=0 nc=0 nf=0
+[Info][01:31:04.855] Sending PrepareRequest: height=21 view=0
+[Info][01:31:04.863] Sending Commit
+[Info][01:31:04.876] Sending Block: height=21 hash=0x520ca819d5346cb54ab3ad23531510e5ebdf9593b892c16ed68db2a10efaaeed tx=0
+[Info][01:31:04.966] Persisted Block: height=21 hash=0x520ca819d5346cb54ab3ad23531510e5ebdf9593b892c16ed68db2a10efaaeed tx=0 nonce=5995215717882299069
+[Info][01:31:04.967] Initialize: height=22 view=0 index=0 role=Primary
+[Info][01:31:19.893] Sending PrepareRequest: height=22 view=0
+[Info][01:31:19.896] Sending Commit
+[Info][01:31:19.902] Sending Block: height=22 hash=0xd284fe5574c591d66671076f343a1238d2774a86441701f98662f56bb14f09dd tx=0
+[Info][01:31:19.904] Persisted Block: height=22 hash=0xd284fe5574c591d66671076f343a1238d2774a86441701f98662f56bb14f09dd tx=0 nonce=15555259534425153402
+[Info][01:31:19.905] Initialize: height=23 view=0 index=0 role=Primary
+[Info][01:31:34.913] Sending PrepareRequest: height=23 view=0
+[Info][01:31:34.916] Sending Commit
+[Info][01:31:34.919] Sending Block: height=23 hash=0xb162662eff9fca62bf542db968de77632fec786fc25fc45374d263080ef7b321 tx=0
+[Info][01:31:34.922] Persisted Block: height=23 hash=0xb162662eff9fca62bf542db968de77632fec786fc25fc45374d263080ef7b321 tx=0 nonce=16265619758026965821
+[Info][01:31:34.923] Initialize: height=24 view=0 index=0 role=Primary
+[Info][01:31:49.928] Sending PrepareRequest: height=24 view=0
+[Info][01:31:49.931] Sending Commit
+[Info][01:31:49.934] Sending Block: height=24 hash=0xefea300257438d41ed88ed9113888acd0ca6900a359930215d7e8be0263cbe37 tx=0
+[Info][01:31:49.936] Persisted Block: height=24 hash=0xefea300257438d41ed88ed9113888acd0ca6900a359930215d7e8be0263cbe37 tx=0 nonce=17778082501970652424
+[Info][01:31:49.937] Initialize: height=25 view=0 index=0 role=Primary
+[Info][01:32:04.940] Sending PrepareRequest: height=25 view=0
+[Info][01:32:04.943] Sending Commit
+[Info][01:32:04.946] Sending Block: height=25 hash=0x946e11da70ea108e7998c05946c7573036bfc7dde9637f7b4eb07cb47ed337d9 tx=0
+[Info][01:32:04.948] Persisted Block: height=25 hash=0x946e11da70ea108e7998c05946c7573036bfc7dde9637f7b4eb07cb47ed337d9 tx=0 nonce=12690722619710753502
+[Info][01:32:04.949] Initialize: height=26 view=0 index=0 role=Primary
+[Info][01:32:19.955] Sending PrepareRequest: height=26 view=0
+[Info][01:32:19.959] Sending Commit
+[Info][01:32:19.961] Sending Block: height=26 hash=0x0d1b2c0d638fb1cb78c20ff92067425fb70d7c820ebeb4748298464a501fe2ed tx=0
+[Info][01:32:19.963] Persisted Block: height=26 hash=0x0d1b2c0d638fb1cb78c20ff92067425fb70d7c820ebeb4748298464a501fe2ed tx=0 nonce=6029760731480964384
+[Info][01:32:19.964] Initialize: height=27 view=0 index=0 role=Primary
+[Info][01:32:34.972] Sending PrepareRequest: height=27 view=0
+[Info][01:32:34.975] Sending Commit
+[Info][01:32:34.977] Sending Block: height=27 hash=0xa47eb7cc72345fd37c58a80f861a62f1c513f091fdff757da4fec9c932dbe44c tx=0
+[Info][01:32:34.980] Persisted Block: height=27 hash=0xa47eb7cc72345fd37c58a80f861a62f1c513f091fdff757da4fec9c932dbe44c tx=0 nonce=7298638920851834950
+[Info][01:32:34.981] Initialize: height=28 view=0 index=0 role=Primary
+[Info][01:32:49.988] Sending PrepareRequest: height=28 view=0
+[Info][01:32:49.992] Sending Commit
+[Info][01:32:49.994] Sending Block: height=28 hash=0xb971e052a77ff8e444e65ea1356f4939bd4809df908817c5c437207a12063b6c tx=0
+[Info][01:32:49.996] Persisted Block: height=28 hash=0xb971e052a77ff8e444e65ea1356f4939bd4809df908817c5c437207a12063b6c tx=0 nonce=4929855684824228177
+[Info][01:32:49.996] Initialize: height=29 view=0 index=0 role=Primary
+[Info][01:33:05.002] Sending PrepareRequest: height=29 view=0
+[Info][01:33:05.005] Sending Commit
+[Info][01:33:05.007] Sending Block: height=29 hash=0xcd4e762dc4b5419fd51bcf254214ca543b315b0260c03b052ac0d9a3a4dc125b tx=0
+[Info][01:33:05.009] Persisted Block: height=29 hash=0xcd4e762dc4b5419fd51bcf254214ca543b315b0260c03b052ac0d9a3a4dc125b tx=0 nonce=4327984928376284089
+[Info][01:33:05.009] Initialize: height=30 view=0 index=0 role=Primary
+[Info][01:36:31.860] OnStart
+[Info][01:36:31.895] Initialize: height=30 view=0 index=0 role=Primary
+[Info][01:36:31.899] Sending RecoveryRequest: height=30 view=0 nc=0 nf=0
+[Info][01:36:46.914] Sending PrepareRequest: height=30 view=0
+[Info][01:36:46.921] Sending Commit
+[Info][01:36:46.933] Sending Block: height=30 hash=0x80a67e5742c6c52d88012b7e2181584022cea1a4c1c68fe84a5a4df874c514f2 tx=0
+[Info][01:36:47.015] Persisted Block: height=30 hash=0x80a67e5742c6c52d88012b7e2181584022cea1a4c1c68fe84a5a4df874c514f2 tx=0 nonce=1796094877509138805
+[Info][01:36:47.016] Initialize: height=31 view=0 index=0 role=Primary
+[Info][01:37:01.933] Sending PrepareRequest: height=31 view=0
+[Info][01:37:01.937] Sending Commit
+[Info][01:37:01.939] Sending Block: height=31 hash=0x60a624d4766c02342da7014b490bfacdc89e41fad412dde3d3af8d2ec23424c2 tx=0
+[Info][01:37:01.942] Persisted Block: height=31 hash=0x60a624d4766c02342da7014b490bfacdc89e41fad412dde3d3af8d2ec23424c2 tx=0 nonce=5843611756399332917
+[Info][01:37:01.943] Initialize: height=32 view=0 index=0 role=Primary
+[Info][01:37:16.942] Sending PrepareRequest: height=32 view=0
+[Info][01:37:16.945] Sending Commit
+[Info][01:37:16.948] Sending Block: height=32 hash=0x6eed74d38e30918ce4986abb4534d40a0b47a773b011c6d427a4b59d854a15f9 tx=0
+[Info][01:37:16.951] Persisted Block: height=32 hash=0x6eed74d38e30918ce4986abb4534d40a0b47a773b011c6d427a4b59d854a15f9 tx=0 nonce=3597842483955671272
+[Info][01:37:16.953] Initialize: height=33 view=0 index=0 role=Primary
+[Info][01:37:31.964] Sending PrepareRequest: height=33 view=0
+[Info][01:37:31.968] Sending Commit
+[Info][01:37:31.971] Sending Block: height=33 hash=0x3542f87c8ae9f52c0b8a5be9514ef3e7e1e941bf0494afa48df0eeb7190992ca tx=0
+[Info][01:37:31.973] Persisted Block: height=33 hash=0x3542f87c8ae9f52c0b8a5be9514ef3e7e1e941bf0494afa48df0eeb7190992ca tx=0 nonce=18427882682438478762
+[Info][01:37:31.974] Initialize: height=34 view=0 index=0 role=Primary
+[Info][01:37:46.987] Sending PrepareRequest: height=34 view=0
+[Info][01:37:46.991] Sending Commit
+[Info][01:37:46.994] Sending Block: height=34 hash=0xa3a849cd98b9f32a30d3a0f31f300e1235b80dc59df7cb27db4d1acbdbece0d6 tx=0
+[Info][01:37:46.997] Persisted Block: height=34 hash=0xa3a849cd98b9f32a30d3a0f31f300e1235b80dc59df7cb27db4d1acbdbece0d6 tx=0 nonce=11340344985499436941
+[Info][01:37:46.999] Initialize: height=35 view=0 index=0 role=Primary
+[Info][01:38:02.006] Sending PrepareRequest: height=35 view=0
+[Info][01:38:02.010] Sending Commit
+[Info][01:38:02.013] Sending Block: height=35 hash=0x38aa22aac94e3d6b7748c9bf5c52fbcb0b1ee4b4799d442c4f0f3f1561e50373 tx=0
+[Info][01:38:02.016] Persisted Block: height=35 hash=0x38aa22aac94e3d6b7748c9bf5c52fbcb0b1ee4b4799d442c4f0f3f1561e50373 tx=0 nonce=721361006345356247
+[Info][01:38:02.017] Initialize: height=36 view=0 index=0 role=Primary
+[Info][01:38:17.022] Sending PrepareRequest: height=36 view=0
+[Info][01:38:17.025] Sending Commit
+[Info][01:38:17.028] Sending Block: height=36 hash=0x2f6a458ec731ee0ec85fe58d7e68e55e3d1f7efb1546fc0a2d327619871e8227 tx=0
+[Info][01:38:17.030] Persisted Block: height=36 hash=0x2f6a458ec731ee0ec85fe58d7e68e55e3d1f7efb1546fc0a2d327619871e8227 tx=0 nonce=10949808760079325102
+[Info][01:38:17.031] Initialize: height=37 view=0 index=0 role=Primary
+[Info][01:38:32.046] Sending PrepareRequest: height=37 view=0
+[Info][01:38:32.051] Sending Commit
+[Info][01:38:32.054] Sending Block: height=37 hash=0x037798dc01ed2787d8e0ba82c01f1dd946f4e81fa2cba7e2fdff3b5056f3dae6 tx=0
+[Info][01:38:32.056] Persisted Block: height=37 hash=0x037798dc01ed2787d8e0ba82c01f1dd946f4e81fa2cba7e2fdff3b5056f3dae6 tx=0 nonce=12089862804357476810
+[Info][01:38:32.057] Initialize: height=38 view=0 index=0 role=Primary
+[Info][01:38:47.070] Sending PrepareRequest: height=38 view=0
+[Info][01:38:47.074] Sending Commit
+[Info][01:38:47.078] Sending Block: height=38 hash=0x62e6d8eb8c00be4727aa55c638fa92deb03191b0f14836fc057e96a0795f2c03 tx=0
+[Info][01:38:47.081] Persisted Block: height=38 hash=0x62e6d8eb8c00be4727aa55c638fa92deb03191b0f14836fc057e96a0795f2c03 tx=0 nonce=12668598132198890050
+[Info][01:38:47.083] Initialize: height=39 view=0 index=0 role=Primary
+[Info][01:39:02.096] Sending PrepareRequest: height=39 view=0
+[Info][01:39:02.100] Sending Commit
+[Info][01:39:02.103] Sending Block: height=39 hash=0xb2ad0311579fe1f361041b227679b705fe22d56f41d8921c4f885344ff63b17c tx=0
+[Info][01:39:02.105] Persisted Block: height=39 hash=0xb2ad0311579fe1f361041b227679b705fe22d56f41d8921c4f885344ff63b17c tx=0 nonce=9776482879369625421
+[Info][01:39:02.106] Initialize: height=40 view=0 index=0 role=Primary
+[Info][01:39:17.124] Sending PrepareRequest: height=40 view=0
+[Info][01:39:17.128] Sending Commit
+[Info][01:39:17.131] Sending Block: height=40 hash=0xc85273fb5a259e9926ab3152a32f67124f4cc32ef79f985fb7ed6565fe983932 tx=0
+[Info][01:39:17.133] Persisted Block: height=40 hash=0xc85273fb5a259e9926ab3152a32f67124f4cc32ef79f985fb7ed6565fe983932 tx=0 nonce=9775964013694382320
+[Info][01:39:17.135] Initialize: height=41 view=0 index=0 role=Primary
+[Info][01:39:32.147] Sending PrepareRequest: height=41 view=0
+[Info][01:39:32.151] Sending Commit
+[Info][01:39:32.154] Sending Block: height=41 hash=0x7d837016be7a2e36582354d5e0a93b064dc3adbbf7c7921b54160f56e19e1514 tx=0
+[Info][01:39:32.157] Persisted Block: height=41 hash=0x7d837016be7a2e36582354d5e0a93b064dc3adbbf7c7921b54160f56e19e1514 tx=0 nonce=7591596793168041633
+[Info][01:39:32.158] Initialize: height=42 view=0 index=0 role=Primary
+[Info][01:39:47.172] Sending PrepareRequest: height=42 view=0
+[Info][01:39:47.176] Sending Commit
+[Info][01:39:47.179] Sending Block: height=42 hash=0x77da42e4146ffacc3c1917a824727d8ccf0e76544d8a33ad62e516a869bb54a9 tx=0
+[Info][01:39:47.181] Persisted Block: height=42 hash=0x77da42e4146ffacc3c1917a824727d8ccf0e76544d8a33ad62e516a869bb54a9 tx=0 nonce=8618170167177439969
+[Info][01:39:47.183] Initialize: height=43 view=0 index=0 role=Primary
+[Info][01:40:02.192] Sending PrepareRequest: height=43 view=0
+[Info][01:40:02.196] Sending Commit
+[Info][01:40:02.199] Sending Block: height=43 hash=0x6c5fac292b515aab5daa166e86548be8a8e190660ce588cb6e78d9d040990564 tx=0
+[Info][01:40:02.201] Persisted Block: height=43 hash=0x6c5fac292b515aab5daa166e86548be8a8e190660ce588cb6e78d9d040990564 tx=0 nonce=6408546418779571007
+[Info][01:40:02.202] Initialize: height=44 view=0 index=0 role=Primary
+[Info][01:40:17.209] Sending PrepareRequest: height=44 view=0
+[Info][01:40:17.213] Sending Commit
+[Info][01:40:17.216] Sending Block: height=44 hash=0x0e0c7495810169b79da7a61b8a387c0d6df7f980883423c0a7de4f6b714dfa8b tx=0
+[Info][01:40:17.218] Persisted Block: height=44 hash=0x0e0c7495810169b79da7a61b8a387c0d6df7f980883423c0a7de4f6b714dfa8b tx=0 nonce=17349251872212434524
+[Info][01:40:17.219] Initialize: height=45 view=0 index=0 role=Primary
+[Info][01:40:32.231] Sending PrepareRequest: height=45 view=0
+[Info][01:40:32.235] Sending Commit
+[Info][01:40:32.239] Sending Block: height=45 hash=0xb3ae88892af5e8be8720034d66719be570cfcf3c5bf65a4ec0cc916b7ff28f5a tx=1
+[Info][01:40:32.259] Persisted Block: height=45 hash=0xb3ae88892af5e8be8720034d66719be570cfcf3c5bf65a4ec0cc916b7ff28f5a tx=1 nonce=12965629083947132575
+[Info][01:40:32.260] Initialize: height=46 view=0 index=0 role=Primary
+[Info][01:40:47.251] Sending PrepareRequest: height=46 view=0
+[Info][01:40:47.255] Sending Commit
+[Info][01:40:47.258] Sending Block: height=46 hash=0x0a6f32179db574939370a926c083796ae4e50f5d02303dff061eaae9d7611fda tx=1
+[Info][01:40:47.265] Persisted Block: height=46 hash=0x0a6f32179db574939370a926c083796ae4e50f5d02303dff061eaae9d7611fda tx=1 nonce=13882926974789930128
+[Info][01:40:47.267] Initialize: height=47 view=0 index=0 role=Primary
+[Info][01:41:02.262] Sending PrepareRequest: height=47 view=0
+[Info][01:41:02.266] Sending Commit
+[Info][01:41:02.269] Sending Block: height=47 hash=0x53f5999c8d0817598620c1a109beac8f829d9f88d6cc9a375118c25350b46da1 tx=0
+[Info][01:41:02.271] Persisted Block: height=47 hash=0x53f5999c8d0817598620c1a109beac8f829d9f88d6cc9a375118c25350b46da1 tx=0 nonce=1834599697217599522
+[Info][01:41:02.273] Initialize: height=48 view=0 index=0 role=Primary
+[Info][01:41:17.276] Sending PrepareRequest: height=48 view=0
+[Info][01:41:17.279] Sending Commit
+[Info][01:41:17.282] Sending Block: height=48 hash=0x412ee037744529fbf57ed5faf29775c9ee0b8ec5a73c5a9ef590aacde5036888 tx=0
+[Info][01:41:17.284] Persisted Block: height=48 hash=0x412ee037744529fbf57ed5faf29775c9ee0b8ec5a73c5a9ef590aacde5036888 tx=0 nonce=15743130426204039258
+[Info][01:41:17.285] Initialize: height=49 view=0 index=0 role=Primary
+[Info][01:41:32.286] Sending PrepareRequest: height=49 view=0
+[Info][01:41:32.289] Sending Commit
+[Info][01:41:32.292] Sending Block: height=49 hash=0x485a6e68b32c34e79fe1b792cceac3d68a6039edb21e435d7bbbadb7ad7b2498 tx=0
+[Info][01:41:32.294] Persisted Block: height=49 hash=0x485a6e68b32c34e79fe1b792cceac3d68a6039edb21e435d7bbbadb7ad7b2498 tx=0 nonce=3660881792255270053
+[Info][01:41:32.295] Initialize: height=50 view=0 index=0 role=Primary
+[Info][01:41:47.294] Sending PrepareRequest: height=50 view=0
+[Info][01:41:47.296] Sending Commit
+[Info][01:41:47.299] Sending Block: height=50 hash=0x7fde0ceb4bd77f47dab359bb60f109a3fe7f80bc40d653d89593a2ba2c15ae5d tx=0
+[Info][01:41:47.301] Persisted Block: height=50 hash=0x7fde0ceb4bd77f47dab359bb60f109a3fe7f80bc40d653d89593a2ba2c15ae5d tx=0 nonce=14573812202564922611
+[Info][01:41:47.303] Initialize: height=51 view=0 index=0 role=Primary
+[Info][01:42:02.303] Sending PrepareRequest: height=51 view=0
+[Info][01:42:02.307] Sending Commit
+[Info][01:42:02.310] Sending Block: height=51 hash=0xe851efca9c9ef30dfc7644e5218174e32424cd2cb1eb9ca157f560f81f0bb020 tx=0
+[Info][01:42:02.312] Persisted Block: height=51 hash=0xe851efca9c9ef30dfc7644e5218174e32424cd2cb1eb9ca157f560f81f0bb020 tx=0 nonce=7037422726410871008
+[Info][01:42:02.313] Initialize: height=52 view=0 index=0 role=Primary
+[Info][01:42:17.324] Sending PrepareRequest: height=52 view=0
+[Info][01:42:17.327] Sending Commit
+[Info][01:42:17.329] Sending Block: height=52 hash=0xd84b3852447ffc983e69b87eec90ed97f880a7e98b67897bf8141b305f7965c1 tx=0
+[Info][01:42:17.331] Persisted Block: height=52 hash=0xd84b3852447ffc983e69b87eec90ed97f880a7e98b67897bf8141b305f7965c1 tx=0 nonce=11810478267979954561
+[Info][01:42:17.332] Initialize: height=53 view=0 index=0 role=Primary
+[Info][01:42:32.341] Sending PrepareRequest: height=53 view=0
+[Info][01:42:32.344] Sending Commit
+[Info][01:42:32.347] Sending Block: height=53 hash=0x8d93813cd4d4fdea856e390ca737993513e189d8d291c9368b3995deac0a257f tx=0
+[Info][01:42:32.348] Persisted Block: height=53 hash=0x8d93813cd4d4fdea856e390ca737993513e189d8d291c9368b3995deac0a257f tx=0 nonce=9374123401577472630
+[Info][01:42:32.350] Initialize: height=54 view=0 index=0 role=Primary
+[Info][01:42:47.365] Sending PrepareRequest: height=54 view=0
+[Info][01:42:47.368] Sending Commit
+[Info][01:42:47.371] Sending Block: height=54 hash=0xf15f16150f260c67831404889136ba263fe945c7a3e20ea7f90b35604cbdd5b9 tx=0
+[Info][01:42:47.373] Persisted Block: height=54 hash=0xf15f16150f260c67831404889136ba263fe945c7a3e20ea7f90b35604cbdd5b9 tx=0 nonce=12035356108419395660
+[Info][01:42:47.374] Initialize: height=55 view=0 index=0 role=Primary
