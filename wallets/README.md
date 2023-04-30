@@ -1,7 +1,7 @@
-create wallet <key>
+create wallet "key"
 
-open <path>
+open "path"
 
-send <asset> <to> <val>
+send "asset" "to" "val"
 
 list asset
