@@ -1,7 +1,9 @@
-create wallet "key"
+```
+neo> create wallet "key"
 
-open "path"
+neo> open "path"
 
-send "asset" "to" "val"
+neo> send "asset" "to" "val"
 
-list asset
+neo> list asset
+```
