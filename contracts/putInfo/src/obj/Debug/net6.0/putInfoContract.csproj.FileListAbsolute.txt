@@ -1,0 +1,12 @@
+C:\Users\zip\Desktop\server\neo-project\contracts\putInfo\src\bin\Debug\net6.0\putInfoContract.deps.json
+C:\Users\zip\Desktop\server\neo-project\contracts\putInfo\src\bin\Debug\net6.0\putInfoContract.dll
+C:\Users\zip\Desktop\server\neo-project\contracts\putInfo\src\bin\Debug\net6.0\putInfoContract.pdb
+C:\Users\zip\Desktop\server\neo-project\contracts\putInfo\src\obj\Debug\net6.0\putInfoContract.csproj.AssemblyReference.cache
+C:\Users\zip\Desktop\server\neo-project\contracts\putInfo\src\obj\Debug\net6.0\putInfoContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zip\Desktop\server\neo-project\contracts\putInfo\src\obj\Debug\net6.0\putInfoContract.AssemblyInfoInputs.cache
+C:\Users\zip\Desktop\server\neo-project\contracts\putInfo\src\obj\Debug\net6.0\putInfoContract.AssemblyInfo.cs
+C:\Users\zip\Desktop\server\neo-project\contracts\putInfo\src\obj\Debug\net6.0\putInfoContract.csproj.CoreCompileInputs.cache
+C:\Users\zip\Desktop\server\neo-project\contracts\putInfo\src\obj\Debug\net6.0\putInfoContract.dll
+C:\Users\zip\Desktop\server\neo-project\contracts\putInfo\src\obj\Debug\net6.0\refint\putInfoContract.dll
+C:\Users\zip\Desktop\server\neo-project\contracts\putInfo\src\obj\Debug\net6.0\putInfoContract.pdb
+C:\Users\zip\Desktop\server\neo-project\contracts\putInfo\src\obj\Debug\net6.0\ref\putInfoContract.dll

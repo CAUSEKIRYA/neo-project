@@ -9,7 +9,7 @@
     "accounts": [
         {
             "address": "Nf87np4rqpTRpSVkXx53cJxGs7wcozFZdH",
-            "label": null,
+            "label": "Test 1",
             "isDefault": false,
             "lock": false,
             "key": "6PYKjY2W3TYCv2i1c64HmReyK9QArXpNXMiNRBmx7fHdeksYKGd9Af6QzW",

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "dOZhRAV5XkdJfhlvc47DgXu9gtWon05LEIIScDhx3jtZD5EunLSybNSOAqCe0lslinKs2W2nV7GN2NIvYCSudA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zip\\Desktop\\server\\neo-project\\contracts\\putInfo\\src\\putInfoContract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zip\\.nuget\\packages\\neo.buildtasks\\3.5.17\\neo.buildtasks.3.5.17.nupkg.sha512",
+    "C:\\Users\\zip\\.nuget\\packages\\neo.smartcontract.framework\\3.5.0\\neo.smartcontract.framework.3.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "putInfoContract зависит от Neo.BuildTasks (>= 3.5.15), но Neo.BuildTasks 3.5.15 не найден. Использовано наилучшее приближенное соответствие Neo.BuildTasks 3.5.17.",
+      "libraryId": "Neo.BuildTasks",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
