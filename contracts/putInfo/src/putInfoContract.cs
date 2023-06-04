@@ -1,47 +1,39 @@
 ﻿using System;
 using System.ComponentModel;
-using System.Numerics;
-
 
 using Neo;
 using Neo.SmartContract.Framework;
 using Neo.SmartContract.Framework.Attributes;
 using Neo.SmartContract.Framework.Native;
 using Neo.SmartContract.Framework.Services;
-using Neo.SmartContract;
 
 
 namespace testTransfer
 {
     [DisplayName("putInfoContract")]
-    [ManifestExtra("Author", "Your name")]
-    [ManifestExtra("Email", "your@address.invalid")]
-    [ManifestExtra("Description", "Describe your contract...")]
+
     public class testTransferContract : SmartContract
     {
-        private static StorageMap ContractStorage => new StorageMap(Storage.CurrentContext, "test");
         private static StorageMap ContractMetadata => new StorageMap(Storage.CurrentContext, "meta");
+        private static StorageMap FileData => new StorageMap(Storage.CurrentContext, "files");
         private static Transaction Tx => (Transaction)Runtime.ScriptContainer;
 
         [DisplayName("DataChanged")]
 
         public static event Action<UInt160, String> OnDataChanged;
 
-        public static bool PutInformation(String info)
+        public static void AddFile(String fileName, ByteString fileData)
         {
-            if (info.Length < 0)
-            {
-                throw new Exception("Empty information.");
+            if(FileData.Get(fileName).Length > 0){
+                throw new Exception("File alredy exist");
             }
 
-            ContractStorage.Put(Tx.Sender, info);
-            OnDataChanged(Tx.Sender, info);
-            return true;
+            FileData.Put(fileName, fileData);
         }
 
-        public static String GetLast()
-        {   
-            return ContractStorage.Get(Tx.Sender);
+        public static ByteString GetFileData(String fileName)
+        {
+            return FileData.Get(fileName);
         }
 
         [DisplayName("_deploy")]

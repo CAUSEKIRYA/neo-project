@@ -1,0 +1,10 @@
+[
+  {
+    "contract": "putInfoContract",
+    "operation": "AddFile",
+    "args": [
+      "test",
+      "test"
+    ]
+  }
+]

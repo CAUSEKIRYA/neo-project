@@ -1,1 +1,118 @@
-{"name":"putInfoContract","groups":[],"features":{},"supportedstandards":[],"abi":{"methods":[{"name":"putInformation","offset":55,"safe":false,"returntype":"Boolean","parameters":[{"name":"info","type":"String"}]},{"name":"getLast","offset":161,"safe":false,"returntype":"String","parameters":[]},{"name":"_deploy","offset":196,"safe":false,"returntype":"Void","parameters":[{"name":"data","type":"Any"},{"name":"update","type":"Boolean"}]},{"name":"update","offset":237,"safe":false,"returntype":"Void","parameters":[{"name":"nefFile","type":"ByteArray"},{"name":"manifest","type":"String"}]}],"events":[{"name":"DataChanged","parameters":[{"name":"arg1","type":"Hash160"},{"name":"arg2","type":"String"}]}]},"permissions":[{"contract":"0xfffdc93764dbaddd97c48f252a53ea4643faa3fd","methods":["update"]}],"trusts":[],"extra":{"Author":"Your name","Email":"your@address.invalid","Description":"Describe your contract..."}}
+{
+    "name": "putInfoContract",
+    "groups": [],
+    "features": {},
+    "supportedstandards": [],
+    "abi": {
+        "methods": [
+            {
+                "name": "addFile",
+                "offset": 72,
+                "safe": false,
+                "returntype": "Void",
+                "parameters": [
+                    {
+                        "name": "fileName",
+                        "type": "String"
+                    },
+                    {
+                        "name": "fileData",
+                        "type": "ByteArray"
+                    }
+                ]
+            },
+            {
+                "name": "getFileData",
+                "offset": 100,
+                "safe": false,
+                "returntype": "ByteArray",
+                "parameters": [
+                    {
+                        "name": "fileName",
+                        "type": "String"
+                    }
+                ]
+            },
+            {
+                "name": "putInformation",
+                "offset": 132,
+                "safe": false,
+                "returntype": "Boolean",
+                "parameters": [
+                    {
+                        "name": "info",
+                        "type": "String"
+                    }
+                ]
+            },
+            {
+                "name": "getLast",
+                "offset": 227,
+                "safe": false,
+                "returntype": "String",
+                "parameters": []
+            },
+            {
+                "name": "_deploy",
+                "offset": 251,
+                "safe": false,
+                "returntype": "Void",
+                "parameters": [
+                    {
+                        "name": "data",
+                        "type": "Any"
+                    },
+                    {
+                        "name": "update",
+                        "type": "Boolean"
+                    }
+                ]
+            },
+            {
+                "name": "update",
+                "offset": 292,
+                "safe": false,
+                "returntype": "Void",
+                "parameters": [
+                    {
+                        "name": "nefFile",
+                        "type": "ByteArray"
+                    },
+                    {
+                        "name": "manifest",
+                        "type": "String"
+                    }
+                ]
+            }
+        ],
+        "events": [
+            {
+                "name": "DataChanged",
+                "parameters": [
+                    {
+                        "name": "arg1",
+                        "type": "Hash160"
+                    },
+                    {
+                        "name": "arg2",
+                        "type": "String"
+                    }
+                ]
+            }
+        ]
+    },
+    "permissions": [
+        {
+            "contract": "0xfffdc93764dbaddd97c48f252a53ea4643faa3fd",
+            "methods": [
+                "update"
+            ]
+        }
+    ],
+    "trusts": [],
+    "extra": {
+        "Author": "Your name",
+        "Email": "your@address.invalid",
+        "Description": "Describe your contract..."
+    }
+}

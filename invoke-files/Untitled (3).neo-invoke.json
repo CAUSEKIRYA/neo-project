@@ -1,0 +1,9 @@
+[
+  {
+    "contract": "putInfoContract",
+    "operation": "getFileData",
+    "args": [
+      "test2"
+    ]
+  }
+]
